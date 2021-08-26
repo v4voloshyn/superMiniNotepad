@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Preview Link](https://v4voloshyn.github.io/superMiniNotepad/)
+
++ [Preview Link](https://v4voloshyn.github.io/superMiniNotepad/)
 ## To run project
 ### `download project on local disk`
 ### `npm install`*in root directory of project
