@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/superMiniNotepad/static/css/main.34cccba5.chunk.css",
+    "main.js": "/superMiniNotepad/static/js/main.faacad86.chunk.js",
+    "main.js.map": "/superMiniNotepad/static/js/main.faacad86.chunk.js.map",
+    "runtime-main.js": "/superMiniNotepad/static/js/runtime-main.fca26502.js",
+    "runtime-main.js.map": "/superMiniNotepad/static/js/runtime-main.fca26502.js.map",
+    "static/css/2.a5f06b7f.chunk.css": "/superMiniNotepad/static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.c7234c6c.chunk.js": "/superMiniNotepad/static/js/2.c7234c6c.chunk.js",
+    "static/js/2.c7234c6c.chunk.js.map": "/superMiniNotepad/static/js/2.c7234c6c.chunk.js.map",
+    "index.html": "/superMiniNotepad/index.html",
+    "precache-manifest.6b0e6c0bf02f832a1e8d872308816955.js": "/superMiniNotepad/precache-manifest.6b0e6c0bf02f832a1e8d872308816955.js",
+    "service-worker.js": "/superMiniNotepad/service-worker.js",
+    "static/css/2.a5f06b7f.chunk.css.map": "/superMiniNotepad/static/css/2.a5f06b7f.chunk.css.map",
+    "static/css/main.34cccba5.chunk.css.map": "/superMiniNotepad/static/css/main.34cccba5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fca26502.js",
+    "static/css/2.a5f06b7f.chunk.css",
+    "static/js/2.c7234c6c.chunk.js",
+    "static/css/main.34cccba5.chunk.css",
+    "static/js/main.faacad86.chunk.js"
+  ]
+}
