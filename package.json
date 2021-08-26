@@ -1,6 +1,7 @@
 {
   "name": "react-twit",
   "version": "0.1.0",
+  "homepage" : "http://v4voloshyn.github.io/superMiniNotepad",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.6.0",
